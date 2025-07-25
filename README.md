@@ -38,7 +38,7 @@
 
 ### Setup
 ```bash
-git clone <repository_url>
+git clone https://github.com/xbzhang0913/DEGAPv2.git
 cd DEGAPv2
 # Ensure all dependencies are installed
 ```
